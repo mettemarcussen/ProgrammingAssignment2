@@ -1,4 +1,4 @@
-## The makeCacheMatrix and the cacheSolve functions[...]
+## The makeCacheMatrix and the cacheSolve functions
 
 
 
